@@ -15,7 +15,13 @@ dependencies:
 
   cupertino_icons: ^1.0.8
   google_fonts: ^6.2.1
+  flutter_screenutil: ^5.9.3
   http: ^1.4.0
+  flutter_riverpod: ^2.6.1
+
+
+  neumorphic_ui: ^1.0.0+1
+
 
 dev_dependencies:
   flutter_test:
